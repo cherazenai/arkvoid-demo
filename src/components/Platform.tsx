@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Fingerprint, Zap, Lock, FileBarChart, KeyRound, Users, ArrowUpRight } from "lucide-react";
+import { FingerprintPattern as Fingerprint, Zap, Lock, FileBarChart, KeyRound, Users, ArrowUpRight } from "lucide-react";
 
 const modules = [
   { icon: Fingerprint, title: "Agent Identity Registry", desc: "Cryptographic identity for every AI agent in your infrastructure." },
